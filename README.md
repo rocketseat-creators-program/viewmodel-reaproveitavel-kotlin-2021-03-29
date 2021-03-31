@@ -7,4 +7,4 @@ Neste vídeo veremos como podemos utilizar uma ViewModel genérica na arquitetur
 
 | [<img src="https://avatars.githubusercontent.com/u/1576341?v=4" width="75px;"/>](https://github.com/kassiano) |
 | :-: |
-|[Diego Fernandes](https://github.com/kassiano)|
+|[Kassiano Resende](https://github.com/kassiano)|
